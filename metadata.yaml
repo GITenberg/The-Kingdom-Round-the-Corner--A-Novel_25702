@@ -1,0 +1,41 @@
+_repo: The-Kingdom-Round-the-Corner--A-Novel_25702
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Stevens, William Dodge
+    alias: Stevens, W. D. (William Dodge)
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '6720'
+    url: http://www.gutenberg.org/2009/agents/6720
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dawson, Coningsby
+    aliases:
+    - Dawson, Coningsby William
+    - Dawson, Coningsby W. (Coningsby William)
+    birthdate: 1883
+    deathdate: 1959
+    gutenberg_agent_id: '2497'
+    url: http://www.gutenberg.org/2009/agents/2497
+    wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
+description: ''
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2008-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25702'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+title: 'The Kingdom Round the Corner: A Novel'
+url: http://www.gutenberg.org/ebooks/25702
