@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2497
     wikipedia: http://en.wikipedia.org/wiki/Coningsby_Dawson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25702#The-Kingdom-Round-the-Corner--A-Novel
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2008-06-05'
 gutenberg_type: Text
